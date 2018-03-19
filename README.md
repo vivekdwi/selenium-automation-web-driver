@@ -133,10 +133,10 @@ To build a Hybrid Test Automation Framework which can be used across different w
 
  * **IntelliJ IDE** - Best Java IDE in the Whole Wide World!!!
  * **Eclipse Java EE**
- * **Java 7+**
+ * **Java 8**
  * **WebDriverJs** - JavaScript
  * **MySQL Connector**
- * **WebDriver 2+**
+ * **WebDriver 3+**
  * **Selenium Grid** - Not implemented yet!!
  * **SauceLabs** - Not Implemented yet!!
  * **Object Repository** - Not Implemented yet!!
